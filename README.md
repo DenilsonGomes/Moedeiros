@@ -1,0 +1,2 @@
+# Monitor de Pressão IoT
+Dispositivo [SMAP](http://smap.tech/) para realizar o monitoramento remoto em tempo real da pressão da rede de água, fazendo a leitura da pressão da rede de água e enviando para plataforma em nuvem, acessivel para computador e celular.
